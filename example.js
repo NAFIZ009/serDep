@@ -1,2 +1,2 @@
-let count=0;
+let count = 1;
 console.log("server deployed ",count," times")
